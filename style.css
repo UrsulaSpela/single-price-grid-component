@@ -50,6 +50,21 @@ h2{
 }
 .one{
   color: white;
+  margin-bottom: 20px;
+}
+.bla{
+  margin-bottom: 10px;
+}
+#three{
+  line-height: 35px;
+  margin-left: 10px;
+  opacity: 0.7;
+}
+#four{
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  opacity: 0.85;
 }
 button{
   width: 235px;
@@ -57,11 +72,15 @@ button{
   background: hsl(71, 73%, 54%);
   border: none;
   border-radius: 5px;
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  box-shadow:  10px hsl(0, 0, 0, 0.3);
 }
 #downright{
   height: 260px;
   padding: 45px 0 0 45px;
-  background: hsl(179, 62%, 43%, 0.5)
+  background: hsl(179, 62%, 43%, 0.7)
 }
 .bla{
   display: flex;
@@ -71,4 +90,5 @@ button{
   font-size: 15px;
   font-weight: 400;
   opacity: 0.7;
+  line-height: 20px;
 }
